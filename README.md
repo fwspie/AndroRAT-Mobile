@@ -1,8 +1,22 @@
-# AndroRAT
-An enhanced version of the original AndroRAT script
+# AndroRAT - Enhanced Android Remote Administration Tool
 
-#How to use :
+An enhanced version of the original AndroRAT script for remote administration of Android devices.
 
-1- Edit IP address using apk editor to your own IP server
-2- Install edited apk file in a target devices
-3- Run python server script using terminal or Termux (for android devices)
+## How to Use
+
+Follow these steps to set up and use AndroRAT:
+
+### Step 1: Edit IP Address
+
+Using an APK editor, modify the IP address in the AndroRAT APK file to match your own server's IP.
+
+### Step 2: Install Edited APK
+
+Install the edited AndroRAT APK file on the target Android devices that you want to administer remotely.
+
+### Step 3: Run Python Server Script
+
+Run the Python server script on your server using either a terminal or Termux for Android devices. This script will handle the communication between the target devices and your server.
+
+```bash
+python androRAT.py
