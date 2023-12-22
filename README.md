@@ -9,7 +9,7 @@ Allowing you to use AndroRAT completely from a smartphone
 • Termux App [https://f-droid.org/packages/com.termux/] \
 • Apk Editor [Included inside this repository] \
 • Python Install inside Termux \
-• All the Python necessary libraries \
+• All the Python necessary libraries 
 
 ## Installing Libraries 
 
