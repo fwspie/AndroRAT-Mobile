@@ -1,6 +1,6 @@
 # AndroRAT - Enhanced Android Remote Administration Tool
 
-An enhanced version of the original AndroRAT script for remote administration of Android devices.
+A simpler version of the original AndroRAT script for remote administration of Android devices.
 
 ## How to Use
 
