@@ -22,7 +22,8 @@ Run the Python server script on your server using either a terminal or Termux fo
 python androRAT.py --shell -i 0.0.0.0 -p [port base on the edited apk file]
 
 
-### Help Command
+### 𝗛𝗲𝗹𝗽 𝗖𝗼𝗺𝗺𝗮𝗻𝗱
+
 ```bash
 python androRAT.py --help
 
