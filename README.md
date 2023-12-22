@@ -4,6 +4,19 @@ A simpler version of the original AndroRAT script for remote administration of A
 
 Allowing you to use AndroRAT completely from a smartphone 
 
+## Requirements
+
+• Termux App [https://f-droid.org/packages/com.termux/]
+• Apk Editor [Included inside this repository]
+• Python Install inside Termux
+• All the Python necessary libraries
+
+## Installing Libraries 
+
+```bash
+pip install -r requirements.txt
+```
+
 ## How to Use
 
 Follow these steps to set up and use AndroRAT:
