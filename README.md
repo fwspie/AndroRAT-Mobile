@@ -42,4 +42,7 @@ python androRAT.py --shell -i 0.0.0.0 -p [port base on the edited apk file]
 
 ```bash
 python androRAT.py --help
+```
+
+### Will not bypassing antivirus
 
