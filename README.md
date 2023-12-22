@@ -8,7 +8,7 @@ Follow these steps to set up and use AndroRAT:
 
 ### Step 1: Edit IP Address
 
-Using an APK editor, modify the IP address in the apk file located in realeases folder file to match your own server's IP.
+Using an APK editor, modify the IP address in the AndroRAT APK file located in release folder file to match your own server's IP.
 
 ### Step 2: Install Edited APK
 
