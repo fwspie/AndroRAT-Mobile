@@ -2,6 +2,8 @@
 
 A simpler version of the original AndroRAT script for remote administration of Android devices.
 
+Allowing you to use AndroRAT completely from a smartphone 
+
 ## How to Use
 
 Follow these steps to set up and use AndroRAT:
