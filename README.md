@@ -44,5 +44,5 @@ python androRAT.py --shell -i 0.0.0.0 -p [port base on the edited apk file]
 python androRAT.py --help
 ```
 
-If you got any questions or help, contact feel free to contact me :3 - fwspie
+If you got any questions or help, feel free to contact me :3 - fwspie
 
